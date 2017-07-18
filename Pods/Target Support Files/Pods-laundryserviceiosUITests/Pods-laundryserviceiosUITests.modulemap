@@ -1,0 +1,6 @@
+framework module Pods_laundryserviceiosUITests {
+  umbrella header "Pods-laundryserviceiosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
